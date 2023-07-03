@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Poppins:wght@600&family=Quicksand:wght@300;500;700&display=swap');
+
+.rotate{
+    writing-mode: vertical-lr;
+    transform: rotate(180);
+    font-weight:500;
+    font-family: serif;
+    font-size: large;
+}
+.Title{
+    font-family: serif;
+    font-weight: 700;
+}
+
+.Who{
+    font-family: 'Poppins', sans-serif;
+}
+.About{
+    font-weight: 400;
+}
