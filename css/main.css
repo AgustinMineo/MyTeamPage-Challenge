@@ -18,3 +18,12 @@
 .About{
     font-weight: 400;
 }
+
+@media (min-width:720px) and (max-width:991px){
+.cardPos{
+    margin-top: 60px;
+}
+.cardRemove{
+    margin-top: 0px;
+}
+}
